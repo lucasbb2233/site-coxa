@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color: #10E726;
+    background-color: hsl(0, 0%, 100%);
     color:white ;
 
     display: flex;
@@ -8,6 +8,6 @@
 }
 
 .imagem-cabecalho{
-    width: 8%;
+    width: 10%;
 
 }
