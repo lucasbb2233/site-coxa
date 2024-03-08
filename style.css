@@ -31,6 +31,7 @@
     background-image: linear-gradient(#10E726, #3D6749);
     color: white;
     display: flex;
+    justify-content: center;
 }
 
 .time-coritiba{
