@@ -45,3 +45,7 @@ body{
 .time-titulo{
     padding: 25px 0;
 }
+
+.jogador-imagem{
+    width: 150px;
+}
