@@ -58,3 +58,7 @@ body{
 .jogador-icone{
     width: 24px;
 }
+
+.jogador-div{
+    text-align: center;
+}
