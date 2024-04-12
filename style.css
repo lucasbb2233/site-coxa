@@ -49,3 +49,7 @@ body{
 .jogador-imagem{
     width: 150px;
 }
+
+.jogador-titulo{
+    text-align: center;
+}
