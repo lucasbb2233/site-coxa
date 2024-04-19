@@ -62,3 +62,9 @@ body{
 .jogador-div{
     text-align: center;
 }
+
+.cabecalho-lista{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
